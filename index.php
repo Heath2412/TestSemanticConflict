@@ -8,7 +8,7 @@
 	
 	echo $b;
 	
-	$c = $a + $b;
+	$c = $a + 1;
 	
 	echo $c;
 ?>
