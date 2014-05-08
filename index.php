@@ -4,7 +4,6 @@
 		$a++;
 	else $a--;
 	
-	$b = $a + 2;
 	
 	echo $b;
 	
