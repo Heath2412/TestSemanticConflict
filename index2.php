@@ -1,6 +1,6 @@
 <?php
-	$a = 3;
-	$b = $a * $3;
+	$a = 2;
 	echo $a;
 	__ASSERT__($a % 3 == 0);
+	echo "Hello world";
 ?>
